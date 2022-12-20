@@ -1,5 +1,6 @@
 # Hello World 👋
 
+````text
                                               _______----_______
                                    ___---~~~~~.. ... .... ... ..~~~~~---___
                              _ ==============================================
@@ -21,6 +22,8 @@
                                   ~~-_______-~~
 
                 U S S   E N T E R P R I S E   N C C - 1 7 0 1 - D
+
+````
 
 <!--
 **b15hop/b15hop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
